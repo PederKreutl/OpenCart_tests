@@ -1,4 +1,4 @@
-# BDD testy pre platformu OpenCart (Python/Gherkin/Selenium)
+# BDD testy pre platformu OpenCart
 
 Cieľom projektu bolo vytvoriť **scénare BDD** spolu s implementáciou pre testovanie platformi **OpenCart**.
 Ako konkrétnu podčasť aplikácie som si vybral **nákupny proces neregistrovaného užívateľa**.
